@@ -1,0 +1,72 @@
+Type of Tasks,Date,Start Time,End Time,Duration (in hours)
+Data Analyst,01/02/2026,3:28:04 pm,5:56:56 pm,2.48
+Data Analyst,01/02/2026,7:40:24 pm,9:04:33 pm,1.4
+Data Analyst,01/03/2026,9:58:59 am,12:01:41 pm,2.04
+Data Analyst,01/03/2026,12:32:46 pm,2:15:37 pm,1.71
+Data Analyst,01/03/2026,6:22:03 pm,7:46:44 pm,1.41
+Data Analyst,01/04/2026,8:55:43 am,10:07:16 am,1.19
+Data Analyst,01/04/2026,11:17:36 am,12:02:19 pm,0.75
+Data Analyst,01/05/2026,7:59:38 pm,9:40:28 pm,1.68
+Data Analyst,01/06/2026,11:21:35 am,12:19:09 pm,0.96
+Data Analyst,01/06/2026,1:14:16 pm,4:29:44 pm,3.26
+Data Analyst,01/06/2026,8:15:22 pm,10:58:34 pm,2.72
+Data Analyst,01/07/2026,10:22:19 am,12:06:26 pm,1.74
+Data Analyst,01/12/2026,10:54:44 am,11:49:01 am,0.9
+Data Analyst,01/12/2026,12:06:33 pm,12:26:20 pm,0.33
+Data Analyst,01/12/2026,2:47:41 pm,4:01:11 pm,1.23
+Data Analyst,1/13/2026,5:26:23 am,6:44:14 am,1.3
+Data Analyst,1/13/2026,7:14:15 am,8:30:15 am,1.27
+Data Analyst,1/13/2026,2:39:37 pm,4:27:34 pm,1.8
+Data Analyst,1/13/2026,6:15:45 pm,6:51:26 pm,0.59
+Data Analyst,1/13/2026,7:05:46 pm,7:28:34 pm,0.38
+Data Analyst,1/13/2026,11:41:30 pm,12:00:17 am,0.31
+Data Analyst,1/14/2026,12:00:23 am,2:08:21 am,2.13
+Data Analyst,1/14/2026,11:31:33 am,12:13:23 pm,0.7
+Data Analyst,1/14/2026,4:12:32 pm,4:23:45 pm,0.19
+Data Analyst,1/14/2026,4:30:00 pm,6:43:37 pm,2.23
+Data Analyst,1/14/2026,7:11:59 pm,7:23:03 pm,0.18
+Data Analyst,1/14/2026,8:31:53 pm,9:33:30 pm,1.03
+Data Analyst,1/14/2026,9:42:09 pm,10:14:07 pm,0.53
+Data Analyst,1/14/2026,10:26:29 pm,12:04:27 am,1.63
+Data Analyst,1/15/2026,12:04:31 am,12:09:56 am,0.09
+Data Analyst,1/15/2026,9:53:16 pm,12:17:36 am,2.41
+Data Analyst,1/16/2026,12:17:40 am,12:19:47 am,0.04
+Data Analyst,1/16/2026,10:18:34 am,10:39:56 am,0.36
+Data Analyst,1/16/2026,10:41:13 am,10:53:44 am,0.21
+Data Analyst,1/16/2026,3:56:27 pm,5:05:57 pm,1.16
+Data Analyst,1/16/2026,5:50:35 pm,7:16:51 pm,1.44
+Data Analyst,1/16/2026,8:05:47 pm,9:14:02 pm,1.14
+Data Analyst,1/16/2026,9:42:59 pm,10:14:02 pm,0.52
+Data Engineer,1/16/2026,11:29:44 pm,12:00:05 am,0.51
+Data Engineer,1/17/2026,12:00:13 am,1:42:18 am,1.7
+Data Engineer,1/17/2026,8:41:37 am,9:02:15 am,0.34
+Data Engineer,1/17/2026,9:10:14 am,10:55:33 am,1.76
+Data Engineer,1/17/2026,4:29:54 pm,4:53:42 pm,0.4
+Data Engineer,1/17/2026,5:10:29 pm,6:28:26 pm,1.3
+CAPhil,1/17/2026,6:29:18 pm,6:41:42 pm,0.21
+CAPhil,1/17/2026,7:04:11 pm,8:33:42 pm,1.49
+CAPhil,1/17/2026,8:40:27 pm,9:36:31 pm,0.93
+CAPhil,1/18/2026,3:16:54 am,3:51:08 am,0.57
+CAPhil,1/18/2026,12:02:23 pm,12:19:59 pm,0.29
+CAPhil,1/18/2026,1:32:22 pm,5:07:04 pm,3.58
+CAPhil,1/18/2026,5:45:26 pm,6:53:29 pm,1.13
+CAPhil,1/18/2026,9:38:41 pm,10:28:58 pm,0.84
+CAPhil,1/18/2026,10:34:27 pm,11:18:03 pm,0.73
+CAPhil,1/19/2026,12:22:24 am,1:47:16 am,1.41
+CAPhil,1/19/2026,11:40:17 am,11:52:34 am,0.2
+CAPhil,1/19/2026,12:04:16 pm,12:06:18 pm,0.03
+CAPhil,1/19/2026,12:10:05 pm,12:10:42 pm,0.01
+CAPhil,1/19/2026,5:41:45 pm,7:22:03 pm,1.67
+CAPhil,1/20/2026,1:10:35 am,3:34:58 am,2.41
+CAPhil,1/21/2026,9:27:22 am,9:56:55 am,0.49
+CAPhil,1/23/2026,3:46:52 pm,4:37:02 pm,0.84
+CAPhil,1/23/2026,5:17:01 pm,5:37:40 pm,0.34
+CAPhil,1/23/2026,5:44:37 pm,5:50:36 pm,0.1
+Data Engineer,1/24/2026,1:07:18 am,1:18:51 am,0.19
+Data Engineer,1/24/2026,4:28:10 pm,6:02:54 pm,1.58
+Academics,1/25/2026,3:45:56 am,5:44:34 am,1.98
+Academics,1/25/2026,6:08:31 am,6:39:49 am,0.52
+CAPhil,1/26/2026,1:44:54 am,4:13:27 am,2.48
+CAPhil,1/26/2026,1:45:30 pm,3:27:30 pm,1.7
+Academics,1/27/2026,6:51:00 pm,7:19:11 pm,0.47
+Academics,1/27/2026,8:00:21 pm,11:01:58 pm,3.03

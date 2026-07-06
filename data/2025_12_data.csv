@@ -1,0 +1,80 @@
+TRACKER,,,,,,TIME SHEET,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+"""Turning all pain into fuel""",,,,,,Type of Tasks,Date,Start Time,End Time,Duration (in hours)
+,,,,,,Academics,12/2/2025,5:47:26 PM,6:25:20 PM,0.63
+,,,,,,Academics,12/3/2025,12:57:22 AM,2:08:24 AM,1.18
+,,,,,,Academics,12/3/2025,2:44:10 AM,3:51:59 AM,1.13
+,,,,,,Academics,12/3/2025,4:43:00 AM,6:07:20 AM,1.41
+,,,,,,Academics,12/5/2025,10:15:41 PM,12:00:21 AM,1.74
+,,DATE,,,,Researching,12/6/2025,9:38:33 PM,9:41:15 PM,0.04
+,,MONTH,DAY,YEAR,,Researching,12/6/2025,9:42:20 PM,10:19:51 PM,0.63
+,,Dec,29,2025,,Academics,12/7/2025,3:12:12 PM,6:07:36 PM,2.92
+,,,,,,Academics,12/7/2025,8:25:14 PM,9:48:13 PM,1.38
+,,TASK,Data Analyst,,,Academics,12/7/2025,10:50:55 PM,11:28:58 PM,0.63
+,,STATUS,Done,,,Academics,12/10/2025,2:01:55 AM,5:17:24 AM,3.26
+,,,,,,Academics,12/10/2025,5:27:57 AM,5:44:09 AM,0.27
+,,TASKS RECORD,,,,Academics,12/10/2025,3:46:30 PM,5:32:29 PM,1.77
+,,TYPE OF TASK,TIME TRACKED,,,Academics,12/10/2025,8:22:23 PM,12:23:49 AM,4.02
+,,Academics,37.12,,,Academics,12/11/2025,12:57:09 AM,3:10:34 AM,2.22
+,,Researching,0.67,,,Academics,12/12/2025,8:40:59 AM,9:49:06 AM,1.14
+,,Data Analyst,40.82,,,Academics,12/13/2025,12:53:43 AM,2:04:30 AM,1.18
+,,Artificial Intelligence,0.43,,,Academics,12/13/2025,2:25:03 AM,3:25:44 AM,1.01
+,,Software Developer,6.17,,,Academics,12/13/2025,4:20:31 AM,5:59:41 AM,1.65
+,,Machine Learning Engineer,0.99,,,Academics,12/14/2025,3:45:17 AM,5:06:59 AM,1.36
+,,Writer,10.35,,,Academics,12/14/2025,9:29:35 PM,10:02:03 PM,0.54
+,,Machine Learning,0.28,,,Academics,12/14/2025,10:29:57 PM,11:15:12 PM,0.75
+,,,,,,Academics,12/15/2025,9:08:50 AM,11:02:10 AM,1.89
+,,,,,,Academics,12/15/2025,9:42:29 PM,11:13:46 PM,1.52
+,,,,,,Academics,12/16/2025,12:35:02 AM,1:41:01 AM,1.1
+,,,,,,Academics,12/16/2025,2:02:12 AM,3:46:58 AM,1.75
+,,,,,,Academics,12/16/2025,4:47:11 AM,5:27:20 AM,0.67
+,,,,,,Data Analyst,12/16/2025,11:28:29 PM,12:35:34 AM,1.12
+,,,,,,Data Analyst,12/17/2025,3:40:00 AM,7:35:57 AM,3.93
+,,,,,,Data Analyst,12/17/2025,10:03:33 AM,12:17:24 PM,2.23
+,,,,,,Data Analyst,12/18/2025,6:30:44 AM,9:24:15 AM,2.89
+,,,,,,Data Analyst,12/18/2025,9:49:17 AM,10:26:04 AM,0.61
+,,,,,,Data Analyst,12/18/2025,10:26:29 AM,10:44:47 AM,0.3
+,,,,,,Data Analyst,12/18/2025,10:54:32 AM,11:28:38 AM,0.57
+,,,,,,Data Analyst,12/19/2025,3:59:21 AM,4:36:25 AM,0.62
+,,,,,,Artificial Intelligence,12/19/2025,4:36:25 AM,5:02:10 AM,0.43
+,,,,,,Data Analyst,12/19/2025,5:53:57 AM,7:39:27 AM,1.76
+,,,,,,Data Analyst,12/19/2025,8:36:50 AM,8:57:10 AM,0.34
+,,,,,,Data Analyst,12/19/2025,11:33:18 AM,12:46:59 PM,1.23
+,,,,,,Data Analyst,12/20/2025,2:30:54 AM,4:33:45 AM,2.05
+,,,,,,Data Analyst,12/20/2025,7:47:13 AM,8:25:18 AM,0.63
+,,,,,,Data Analyst,12/20/2025,10:27:40 AM,12:06:51 PM,1.65
+,,,,,,Data Analyst,12/20/2025,12:20:00 PM,1:11:01 PM,0.85
+,,,,,,Data Analyst,12/20/2025,1:59:17 PM,4:05:03 PM,2.1
+,,,,,,Data Analyst,12/21/2025,2:00:33 AM,3:36:21 AM,1.6
+,,,,,,Data Analyst,12/21/2025,10:56:55 AM,11:48:44 AM,0.86
+,,,,,,Data Analyst,12/21/2025,12:05:15 PM,12:12:43 PM,0.12
+,,,,,,Data Analyst,12/21/2025,12:44:56 PM,3:54:19 PM,3.16
+,,,,,,Data Analyst,12/22/2025,5:42:37 AM,7:07:55 AM,1.42
+,,,,,,Data Analyst,12/22/2025,7:24:53 AM,9:40:42 AM,2.26
+,,,,,,Data Analyst,12/22/2025,1:08:55 PM,2:36:51 PM,1.47
+,,,,,,Data Analyst,12/23/2025,3:18:31 AM,3:33:53 AM,0.26
+,,,,,,Software Developer,12/23/2025,5:40:57 AM,7:28:31 AM,1.79
+,,,,,,Machine Learning Engineer,12/23/2025,8:03:43 AM,8:51:49 AM,0.8
+,,,,,,Software Developer,12/23/2025,8:51:55 AM,10:41:08 AM,1.82
+,,,,,,Software Developer,12/23/2025,10:41:46 AM,1:15:33 PM,2.56
+,,,,,,Machine Learning Engineer,12/23/2025,3:16:53 PM,3:28:20 PM,0.19
+,,,,,,Data Analyst,12/23/2025,3:28:20 PM,4:24:56 PM,0.94
+,,,,,,Data Analyst,12/23/2025,10:12:13 PM,10:54:06 PM,0.7
+,,,,,,Data Analyst,12/23/2025,11:28:46 PM,12:41:47 AM,1.22
+,,,,,,Writer,12/24/2025,12:42:48 AM,1:23:20 AM,0.68
+,,,,,,Writer,12/24/2025,5:43:21 AM,7:07:00 AM,1.39
+,,,,,,Writer,12/24/2025,7:51:57 AM,10:11:13 AM,2.32
+,,,,,,Writer,12/25/2025,8:09:04 AM,9:18:04 AM,1.15
+,,,,,,Writer,12/25/2025,11:32:35 AM,11:45:59 AM,0.22
+,,,,,,Writer,12/26/2025,4:21:29 AM,5:11:52 AM,0.84
+,,,,,,Writer,12/27/2025,6:47:00 AM,6:53:25 AM,0.11
+,,,,,,Writer,12/27/2025,7:03:27 AM,7:21:14 AM,0.3
+,,,,,,Writer,12/28/2025,5:58:19 AM,8:06:46 AM,2.14
+,,,,,,Writer,12/28/2025,8:24:42 AM,9:36:37 AM,1.2
+,,,,,,Machine Learning,12/28/2025,9:57:23 AM,10:07:22 AM,0.17
+,,,,,,Machine Learning,12/28/2025,10:12:26 AM,10:18:50 AM,0.11
+,,,,,,Data Analyst,12/28/2025,10:25:00 AM,11:06:17 AM,0.69
+,,,,,,Data Analyst,12/29/2025,1:48:06 PM,1:56:51 PM,0.15
+,,,,,,Data Analyst,12/29/2025,2:22:16 PM,5:15:53 PM,2.89
+,,,,,,Data Analyst,12/29/2025,6:28:48 PM,6:40:48 PM,0.2
